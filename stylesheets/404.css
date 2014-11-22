@@ -1,0 +1,15 @@
+.ReturnLink:link {
+color: #252525;
+}
+
+.ReturnLink:visited {
+color: #252525;
+}
+
+.ReturnLink:hover {
+color: #b0b0b0;
+}
+
+.ReturnLink:active {
+color: #252525;
+}
