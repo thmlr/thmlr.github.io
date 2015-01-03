@@ -1,0 +1,30 @@
+@font-face { font-family: RobotoCondensed; src: url(/fonts/RobotoCondensed-Regular.ttf); } 
+@font-face { font-family: RobotoCondensedItalic; src: url(/fonts/RobotoCondensed-Italic.ttf); }
+@font-face { font-family: RobotoCondensedLight; src: url(/fonts/RobotoCondensed-Light.ttf); } 
+@font-face { font-family: RobotoCondensedLightItalic; src: url(/fonts/RobotoCondensed-LightItalic.ttf); }
+@font-face { font-family: RobotoCondensedBold; src: url(/fonts/RobotoCondensed-Bold.ttf); } 
+@font-face { font-family: RobotoCondensedBoldItalic; src: url(/fonts/RobotoCondensed-BoldItalic.ttf); } 
+@font-face { font-family: RobotoLight; src: url(/fonts/Roboto-Light_0.ttf); } 
+@font-face { font-family: RobotoLightItalic; src: url(/fonts/Roboto-LightItalic_0.ttf); }
+@font-face { font-family: Roboto; src: url(/fonts/Roboto-Medium_0.ttf); } 
+@font-face { font-family: RobotoItalic; src: url(/fonts/Roboto-MediumItalic_0.ttf); }
+@font-face { font-family: RobotoBold; src: url(/fonts/Roboto-Bold_0.ttf); } 
+@font-face { font-family: RobotoBoldItalic; src: url(/fonts/Roboto-BoldItalic_0.ttf); }  
+
+
+.ReturnLink:link {
+color: #252525;
+}
+
+.ReturnLink:visited {
+color: #252525;
+}
+
+.ReturnLink:hover {
+color: #636363;
+}
+
+.ReturnLink:active {
+color: #252525;
+}
+
