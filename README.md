@@ -1,2 +1,2 @@
-Stop and Pause
+Thomas Miller
 ============
