@@ -2,7 +2,18 @@ h1 {
   font-family: Helvetica; sans-serif;
 }
 
+.page {
+  background-color: #e3eeff;
+}
+
 .profile-picture {
-  border-radius: 50%
-  p
+  border-radius: 50%;
+  width: 300px;
+}
+
+.intro{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
