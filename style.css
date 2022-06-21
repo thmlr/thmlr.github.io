@@ -1,19 +1,65 @@
-h1 {
-  font-family: Helvetica; sans-serif;
+	html {
+	font-family: Helvetica;
+	text-align: center;
+	background-color: #f7f7f7;
 }
 
-.page {
-  background-color: #e3eeff;
+#title {
+	font-size: 70px;
+	color: #3b2b2a;
 }
 
-.profile-picture {
+
+#main {
+	margin: 30px 30px;
+  padding: 15px;
+  border-radius: 13px;
+  background: #e3eeff;
+}
+
+#img-div {
+	width: 90%;
+	display: block;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+img {
   border-radius: 50%;
-  width: 300px;
+  width: 250px;
 }
 
-.intro{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+#img-caption {
+	font-size: 15px;
+}
+
+#tribute-info {
+	font-size: 25px
+}
+
+#tribute-link {
+	text-decoration: none;
+	color: black;
+}
+
+#link {
+	color: #3b2b2a;
+}
+
+@media (max-width: 620px) {
+  #title {
+    font-size: 50px;
+  }
+	#img-caption {
+		font-size: 12px;
+	}
+	#tribute-info {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 430px) {
+  #title {
+    font-size: 30px;
+  }
 }
